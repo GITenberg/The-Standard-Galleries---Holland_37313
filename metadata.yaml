@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7412'
     url: http://www.gutenberg.org/2009/agents/7412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37313#The-Standard-Galleries---Holland
 gutenberg_issued: '2011-09-04'
 gutenberg_type: Text
 identifiers:
